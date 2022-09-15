@@ -2,7 +2,7 @@
 
 *A mostly reasonable approach to CSS and Sass*
 
-## Table of Contents
+## Table of Contents-
 
 1. [Terminology](#terminology)
     - [Rule Declaration](#rule-declaration)
